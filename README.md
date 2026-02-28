@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shadow!
 <br>
 
-![Profile views](https://komarev.com/ghpvc/?username=Shadow-1Dev)
+![Profile views](https://komarev.com/ghpvc/?username=3bdulra7manAmir)
 [![wakatime](https://wakatime.com/badge/user/018ef128-539c-43d7-818a-ec6c74c4b831.svg)](https://wakatime.com/@018ef128-539c-43d7-818a-ec6c74c4b831)
 <br>
 
