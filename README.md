@@ -11,7 +11,7 @@
 # My Technologies
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,python,git)](https://skillicons.dev)
 <br>
-[![Top Langs](https://github-readme-stats-git-master-abdulrahman-amirs-projects.vercel.app/api/top-langs/?username=Shadow-1Dev&theme=github_dark&layout=compact&hide_border=true&cache_seconds=1800)](https://github.com/Shadow-1Dev)
+![Top Langs](https://github-readme-stats-gilt-ten-wszcg83kt3.vercel.app/api/top-langs/?username=Shadow-1Dev&theme=github_dark&layout=compact&cache_seconds=1800)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=debian,raspberrypi,linux,windows,kali,ubuntu,mint,powershell,stackoverflow)](https://skillicons.dev)
 <br>
