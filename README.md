@@ -5,7 +5,7 @@
 [![wakatime](https://wakatime.com/badge/user/018ef128-539c-43d7-818a-ec6c74c4b831.svg)](https://wakatime.com/@018ef128-539c-43d7-818a-ec6c74c4b831)
 <br>
 
-![Shadow's Stats](https://github-readme-stats-git-master-abdulrahman-amirs-projects.vercel.app/api?username=Shadow-1Dev&theme=github_dark&show_icons=true&hide_border=true&count_private=true&rank_icon=github&cache_seconds=1800)
+![Shadow's Stats](https://github-readme-stats-gilt-ten-wszcg83kt3.vercel.app/api?username=Shadow-1Dev&theme=github_dark&show_icons=true&hide_border=true&count_private=true&rank_icon=github&cache_seconds=1800)
 <br>
 
 # My Technologies
