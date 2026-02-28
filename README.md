@@ -5,13 +5,13 @@
 [![wakatime](https://wakatime.com/badge/user/018ef128-539c-43d7-818a-ec6c74c4b831.svg)](https://wakatime.com/@018ef128-539c-43d7-818a-ec6c74c4b831)
 <br>
 
-![Shadow's Stats](https://github-readme-stats-git-master-abdulrahman-amirs-projects.vercel.app/api?username=Shadow-1Dev&theme=github_dark&show_icons=true&hide_border=true&count_private=true)
+![Shadow's Stats](https://github-readme-stats-git-master-abdulrahman-amirs-projects.vercel.app/api?username=Shadow-1Dev&theme=github_dark&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800)
 <br>
 
 # My Technologies
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,python,git)](https://skillicons.dev)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-1Dev&theme=github_dark&layout=compact)](https://github.com/Shadow-1Dev)
+[![Top Langs](https://github-readme-stats-git-master-abdulrahman-amirs-projects.vercel.app/api/top-langs/?username=Shadow-1Dev&theme=github_dark&layout=compact&hide_border=true&cache_seconds=1800)](https://github.com/Shadow-1Dev)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=debian,raspberrypi,linux,windows,kali,ubuntu,mint,powershell,stackoverflow)](https://skillicons.dev)
 <br>
