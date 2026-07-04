@@ -42,13 +42,7 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
 &nbsp; [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/524660965044650027)
 &nbsp;
 
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/50a95c18-97ef-432c-ae32-8a1ba8035bb2"
-       width="48%" />
-
-  &nbsp;
-
-  <img src="https://github.com/user-attachments/assets/ef1447fa-a755-4695-b9c8-0ac094993ae0"
-       width="48%" />
+  <img src="https://github.com/user-attachments/assets/50a95c18-97ef-432c-ae32-8a1ba8035bb2" width="45%">
+  <img src="https://github.com/user-attachments/assets/ef1447fa-a755-4695-b9c8-0ac094993ae0" width="45%">
 </p>
