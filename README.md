@@ -38,7 +38,8 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
 > "Programming isn't just about writing code; it's about solving problems and creating experiences."
 <br>
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/Shadow-1Dev)
+<!-- [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/Shadow-1Dev) -->
+
 &nbsp; [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/524660965044650027)
 &nbsp;
 
